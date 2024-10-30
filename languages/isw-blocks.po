@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iSoftware Blocks\n"
+"POT-Creation-Date: 2014-07-18 16:15+0200\n"
+"PO-Revision-Date: 2014-07-18 16:15+0200\n"
+"Last-Translator: iSoftware <developer@isoftware.gr>\n"
+"Language-Team: iSoftware <developer@isoftware.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-isw-block-options-page.php:67
+#: classes/class-isw-block-options-page.php:83
+#: classes/class-isw-blocks.php:207
+msgid "Block Settings"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:68
+msgid "Settings"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:103
+msgid "Features"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:107
+#: classes/class-isw-blocks.php:236 classes/class-isw-blocks.php:258
+msgid "Output Mode"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:108
+msgid "This setting defines whether blocks support wpautop overriding."
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:113
+#: classes/class-isw-blocks.php:263 classes/class-isw-blocks.php:270
+msgid "Sort Order"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:114
+msgid "This setting defines whether blocks support sort ordering."
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:119
+msgid "Widget"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:120
+msgid "This setting defines whether block widget is enabled."
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:126
+msgid "Advanced Options"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:130
+msgid "Hierarchical"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:131
+msgid ""
+"This setting defines whether this post type is hierarchical, which allows a "
+"parent to be specified. In order to define a post's parent, the post type "
+"must support \"Page Attributes\"."
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:135
+msgid "Supports"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:137
+msgid ""
+"These settings let you register support for certain features. All features "
+"are directly associated with a functional area of the edit post screen."
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:141
+msgid "Title"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:144
+msgid "Editor"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:147
+msgid "Author"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:150
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:153
+msgid "Excerpt"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:156
+msgid "Trackbacks"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:159
+msgid "Custom Fields"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:162
+msgid "Comments"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:165
+msgid "Revisions"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:168
+msgid "Page Attributes"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:171
+msgid "Post Formats"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:193
+msgid "You may enable or disable the following features"
+msgstr ""
+
+#: classes/class-isw-block-options-page.php:197
+msgid "You may customize what block types support depending on your needs"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:12
+msgid "Multilingual Block"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:12 classes/class-isw-blocks.php:126
+msgid "Block"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:13
+msgid "Displays a Block"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:95
+msgid "Select a Block:"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:98
+#: classes/class-isw-block-widget.php:212
+msgid "(no block selected)"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:103
+#: classes/class-isw-block-widget.php:217
+msgid "(no blocks defined)"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:114
+msgid "advanced options"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:118
+msgid "Display block title"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:121
+msgid "Display block content"
+msgstr ""
+
+#: classes/class-isw-block-widget.php:124
+msgid "Display block edit link"
+msgstr ""
+
+#: classes/class-isw-blocks.php:125
+msgid "Blocks"
+msgstr ""
+
+#: classes/class-isw-blocks.php:127
+msgctxt "Admin menu name"
+msgid "Blocks"
+msgstr ""
+
+#: classes/class-isw-blocks.php:128
+msgid "Add New"
+msgstr ""
+
+#: classes/class-isw-blocks.php:129
+msgid "Add New Block"
+msgstr ""
+
+#: classes/class-isw-blocks.php:130
+msgid "Edit"
+msgstr ""
+
+#: classes/class-isw-blocks.php:131
+msgid "Edit Block"
+msgstr ""
+
+#: classes/class-isw-blocks.php:132
+msgid "New Block"
+msgstr ""
+
+#: classes/class-isw-blocks.php:133
+msgid "View"
+msgstr ""
+
+#: classes/class-isw-blocks.php:134
+msgid "View Block"
+msgstr ""
+
+#: classes/class-isw-blocks.php:135
+msgid "Search Blocks"
+msgstr ""
+
+#: classes/class-isw-blocks.php:136
+msgid "No blocks found"
+msgstr ""
+
+#: classes/class-isw-blocks.php:137
+msgid "No blocks found in trash"
+msgstr ""
+
+#: classes/class-isw-blocks.php:138
+msgid "Parent Block"
+msgstr ""
+
+#: classes/class-isw-blocks.php:143
+msgid "A block of information to be displayed on a page or a post"
+msgstr ""
+
+#: classes/class-isw-blocks.php:168
+msgid "Block Regions"
+msgstr ""
+
+#: classes/class-isw-blocks.php:169
+msgid "Block Region"
+msgstr ""
+
+#: classes/class-isw-blocks.php:170
+msgctxt "Admin menu name"
+msgid "Regions"
+msgstr ""
+
+#: classes/class-isw-blocks.php:171
+msgid "Search Block Regions"
+msgstr ""
+
+#: classes/class-isw-blocks.php:172
+msgid "Popular Block Regions"
+msgstr ""
+
+#: classes/class-isw-blocks.php:173
+msgid "All Block Regions"
+msgstr ""
+
+#: classes/class-isw-blocks.php:174 classes/class-isw-blocks.php:175
+msgid "Parent Block Region"
+msgstr ""
+
+#: classes/class-isw-blocks.php:176
+msgid "Edit Block Region"
+msgstr ""
+
+#: classes/class-isw-blocks.php:177
+msgid "Update Block Region"
+msgstr ""
+
+#: classes/class-isw-blocks.php:178
+msgid "Add New Block Region"
+msgstr ""
+
+#: classes/class-isw-blocks.php:179
+msgid "New Block Region Name"
+msgstr ""
+
+#: classes/class-isw-blocks.php:180
+msgid "Separate block regions with commas"
+msgstr ""
+
+#: classes/class-isw-blocks.php:181
+msgid "Add or remove block regions"
+msgstr ""
+
+#: classes/class-isw-blocks.php:182
+msgid "Choose from the most used block regions"
+msgstr ""
+
+#: classes/class-isw-blocks.php:239 classes/class-isw-blocks.php:248
+msgid "Auto-insert Paragraphs"
+msgstr ""
+
+#: classes/class-isw-blocks.php:242 classes/class-isw-blocks.php:253
+msgid "Manual Paragraphs"
+msgstr ""
+
+#: classes/class-isw-blocks.php:249
+msgid "Normal WordPress Output"
+msgstr ""
+
+#: classes/class-isw-blocks.php:250
+msgid "add paragraphs an breaks and resolve shortcodes."
+msgstr ""
+
+#: classes/class-isw-blocks.php:254
+msgid "Raw Output"
+msgstr ""
+
+#: classes/class-isw-blocks.php:255
+msgid "only resolve shortcodes without adding line breaks or paragraphs."
+msgstr ""
+
+#: classes/class-isw-blocks.php:267
+msgid ""
+"An arithmetic value between 10 and 99 that can be used in queries for "
+"sorting blocks in ascending or descending order."
+msgstr ""
+
+#: classes/class-isw-blocks.php:341
+msgid "Block Sort Order"
+msgstr ""
